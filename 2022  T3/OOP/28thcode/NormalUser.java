@@ -1,0 +1,4 @@
+class NormalUser extends User{
+
+
+}

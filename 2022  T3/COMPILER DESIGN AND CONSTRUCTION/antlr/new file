@@ -1,0 +1,44 @@
+grammar SimpleC;
+
+prog : decl;
+
+decl : funcHeader ';'
+     | type ID ';'        
+      
+Statement → VarDeclaration | VarInitialization | fnDeclaration | fnCall | 				Comment
+
+VarDeclaration → VarType VarName
+
+VarType → int | char | string | boolean
+
+VarName →  ( a – z ) *
+
+VarInitialization → VarName = Value 
+
+Value →  int | char | string | boolean
+
+int →  0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+
+char →  ‘a – z ‘| ‘A – Z’ 
+
+string  →  a – z | A – Z 
+
+boolean →  true | false
+
+fnDeclaration →  keyword fnName (params) [ return ] ;
+
+keyword → func
+
+fnName →  (a – z ) * 
+
+params →  ( | paramName | )
+
+paramName →  a – z | A – Z | _ # & | name , names | name 
+
+return → boolean
+
+boolean → true | false
+
+fnCall → fnName (params)
+
+Comment → & Statement | & * Statements * &

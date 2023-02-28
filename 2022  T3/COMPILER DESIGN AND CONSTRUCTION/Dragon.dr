@@ -1,0 +1,39 @@
+& This is the implementation of the language dragon
+
+int x;
+string name;
+boolean true;
+
+x = 51;
+name = 'Jon'
+
+func isGood (name, age)[
+
+    return true;
+];
+
+func main()[
+
+    int y;
+    
+    out(name);
+    
+    out("Enter the value y: ");
+    in(y);
+    
+    out(y);
+    
+    isGood( Snow, 33);
+    
+    return true;
+]    
+
+& *
+    This
+    is 
+    a
+    Multi - Line
+    Comment
+
+* & 
+

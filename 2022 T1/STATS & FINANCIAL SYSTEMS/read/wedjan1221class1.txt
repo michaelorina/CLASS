@@ -1,0 +1,152 @@
+By Mr Edgar
+
+Ground Rules
+1. Random checks - Distinguishing groups as time goes
+2. Arrival times - Allowing people some slack. Latest 1115. 15   minutes for late comers.
+3. Login names. For purposes of attendance list.
+4. Meeting times - Wed 11 to 1, 4 to 6; Friday 11 to 1
+5. Confirmation on the units done. 
+        Probability and stats. Done
+            What was statistics? 
+                Steve: Collect data and make decision based         on it.
+                what left; sort data
+                
+        2 in one course.
+        Principles of Accounting.
+            What was Accounting?
+                Khadijah: System of recording and analysing finacial transactions.
+                In a business and after some time produce a report. 
+                
+Unit combine 2 things: Statistics and Finance:
+    How are they related?
+        Record financial system to make deciosion. At the end make a deliverable.
+        
+Why am I doing statistics and financing again and we do IT?
+
+Relationship btn statistics and computing?
+
+Statistics is collection of data. Adn computer is supposed to store this data and we analyze them.
+
+computer does border around statistics.
+basic point of a computer: Has a lot of statistics. Computer able to do a quite range of analysis.
+Evolution of computers: Store a lot of data and reduce the size of the computer hardware.
+
+2005 2006 : People were crazy about hardware
+Over time people moved from hardware now to the software.
+Replace manual transaction etc.
+
+After software??
+    Gordon: No clue.
+
+Mobile Application is the next boom.
+List of apps
+appstore
+whatsapp
+insagram
+tiktok no
+facebook
+contacts
+
+and many others
+
+We are living in an age where no much hardware or software but mobile apps.
+So as long as the device can run the app, then the device does not matter.
+
+After Mobile App?
+We move to Yvoones cleary said... Data.
+
+The mobile apps are collecting their data.
+<mobile data are collecting data.
+Safaricom becomes prominet coz they are sharing data to another business interested with the data.
+
+Statistics from a perspective of a computer scientist.
+
+Automated What we learnt in Statistics.
+
+Data Science is the base.
+
+complete journey
+1. Basic Statistics. Basic Analysis. 1
+2. Analyze data using some computing tools. 2
+3. Draw some conclusions
+4. Big data. (Structured /unstructured) 3
+5. AI Machine learning. Data Mining.
+
+FINACIAL SIDE
+Also people here record data.
+Monetary data though.
+
+Some people become coy to bring a new course. Combine computing and financing. BBIT. Effort to bridge that gap.
+
+You cannot separate business without computing.
+
+Legal business that does not use computing.
+
+Mama mbonga and technology. Mpesa Call. 
+Mjengo. Can use Mpesa.
+Politics.
+
+No any business that does not IT.
+
+Computing and business are tied together.
+
+The most profitable business that pays a lot of taxes. Safaricom. NO LINE BTN  businesses and Tech. Thin or no line.
+
+90 percent of us end up in buisiness companies than IT companies.
+
+Business realized have realized they can collect data, and use it on many purposes.
+When bank gives out loan. Mpesa data.
+
+Techonology is the bridge that links the two.
+
+coming from data science and how it is applied in business
+
+After Campus?
+
+Lokong - Network Engineer.
+
+Programming languages
+
+Find out the programming languages in your line.
+Undersrtand the languages.
+
+NEW FIELD OF DATA SCIENCE:
+No longer making application for the sake but one that gets a lot of data as possible.
+
+Data is the gold mine.
+
+SUMMARY OF GUIDE TOPIC 1:
+Evolution of Computers.
+
+Modern apps can be able to describe your characteristics based on the data they collect on you.
+
+Data Science/ Data analysis.
+
+Huduma coolcting data. IS/IT help us to manage data.
+Important to understand and manage finacial systems.
+
+Knowing how a system makes you a enduser. Knowing how to program and make a system makes you an ICT expert.
+
+Example of statistical tools.
+
+Statistics - collecting, analysing, sorting of data. Report.
+
+We learn about R, Python, SPSS, 
+Engenieering matlab - a bit abstract.
+
+Accounting.
+Quickbooks- Take us through to understand how it works.
+Sage
+Tally Pastel Etc
+
+Review of ICT experts:
+Soft Eng
+    Create tools
+Data Eng
+    Build sytem that consolidate data. Pull/ source that data.
+Data Scientist.
+    Machine learning algorithm. Understanding customer behaviour.
+    
+EXAMPLE:
+
+
