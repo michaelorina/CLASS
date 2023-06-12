@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-img = cv2.imread("Nadia_Murad.jpg", cv2.IMREAD_COLOR)
+img = cv2.imread("2.jpeg", cv2.IMREAD_COLOR)
 
 x=np.array(img)
 
